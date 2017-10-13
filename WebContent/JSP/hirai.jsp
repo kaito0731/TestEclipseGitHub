@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-平井はバカ
+平井は馬鹿
 </body>
 </html>
