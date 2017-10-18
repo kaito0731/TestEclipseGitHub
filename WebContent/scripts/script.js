@@ -89,14 +89,15 @@ $(function () {
                     outputText += "驚き　　: " + faceSurprise + "<br>";
     
                     outputDiv.html(outputText);
-                    document.getElementById('anger').value = faceAnger;
-                    document.getElementById('contemt').value = faceContempt;
-                    document.getElementById('disgust').value = faceDisgust;
-                    document.getElementById('fear').value = faceFear;
-                    document.getElementById('happiness').value = faceHappiness;
-                    document.getElementById('neutral').value = faceNeutral;
-                    document.getElementById('sadness').value = faceSadness;
-                    document.getElementById('surprise').value = faceSurprise;
+                    document.getElementById('faceAll').value = faceAnger + "," + faceContempt + "," + faceDisgust + "," + faceFear + "," + faceHappiness + "," + faceNeutral + "," + faceSadness + "," + faceSurprise;
+                    //document.getElementById('contemt').value = faceContempt;
+                    //document.getElementById('disgust').value = faceDisgust;
+                    //document.getElementById('fear').value = faceFear;
+                    //document.getElementById('happiness').value = faceHappiness;
+                    //document.getElementById('neutral').value = faceNeutral;
+                    //document.getElementById('sadness').value = faceSadness;
+                    //document.getElementById('surprise').value = faceSurprise;
+                    //document.getElementById('test').value = outputText
     
                 }
     

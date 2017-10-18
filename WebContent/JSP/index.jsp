@@ -28,7 +28,8 @@
                 <td class="OutputTh">
                     <!--出力結果-->
                     <div id="OutputDiv">Output</div>
-                    <input type="text" name="anger" id="anger" />
+                    <input type="text" name="faceAll" id="faceAll" />
+                    <!--  <input type="text" name="anger" id="anger" />
                     <input type="text" name="contempt" id="contemt" />
                     <input type="text" name="disgust" id="disgust" />
                     <input type="text" name="fear" id="fear" />
@@ -36,6 +37,8 @@
                     <input type="text" name="neutral" id="neutral" />
                     <input type="text" name="sadness" id="sadness" />
                     <input type="text" name="surprise" id="surprise" />
+                    <input type="text" name="test" id="test" />-->
+                    
                 </td>
                 <td>
                     <!--出力画像-->
